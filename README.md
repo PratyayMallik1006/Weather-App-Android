@@ -1,5 +1,11 @@
 # Weather-App-Android
 
+<div>
+<img src="https://github.com/PratyayMallik1006/Weather-App-Android/blob/main/weather1.jpeg?raw=true" height="600" style="float: left">
+<img src="https://github.com/PratyayMallik1006/Weather-App-Android/blob/main/weather2.jpeg?raw=true" height="600" style="float: left">
+<img src="https://github.com/PratyayMallik1006/Weather-App-Android/blob/main/weather3.jpeg?raw=true" height="600" style="float: left">
+</div>
+
 ## Notes
 # Permissions
 1. AndroidManifest.xml
